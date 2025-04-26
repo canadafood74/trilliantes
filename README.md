@@ -5,6 +5,21 @@
 [![GoDoc](https://godoc.org/github.com/google/trillian?status.svg)](https://godoc.org/github.com/google/trillian)
 [![Slack Status](https://img.shields.io/badge/Slack-Chat-blue.svg)](https://transparency-dev.slack.com/)
 
+<!-- Iklan Sidebar -->
+<div class="ad-container">
+  <script type="text/javascript">
+    atOptions = { 
+      'key': '0cfd3aa635d270e67b5af101e4d64321',
+      'format': 'iframe',
+      'height': 250,
+      'width': 300,
+      'params': {}
+    };
+  </script>
+  <script type="text/javascript" src="//padsims.com/0cfd3aa635d270e67b5af101e4d64321/invoke.js"></script>
+</div>
+
+
 > [!NOTE]
 > Trillian is in maintenance mode.
 > The next generation of transparency logs uses [Tiled APIs](ttps://c2sp.org/tlog-tiles)
